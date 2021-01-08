@@ -8,7 +8,7 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sambhav Dusad, Saransh Sharma, Satyam Shukla",
+  "author": "Sambhav Dusad, Saransh Sharma, Satyam Shukla,Ankit Jiganwal",
   "license": "ISC",
   "dependencies": {
     "async": "^3.0.1",
